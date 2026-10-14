@@ -1,0 +1,9 @@
+pip install pymupdf
+pip install paddleocr paddlepaddle
+pip install rapidocr-onnxruntime
+
+install the above python 
+
+
+5 test data have been put in the input folder, just need to run the code directly in terminal.
+And the code will start sorting and put the result in corrsponding folders.
